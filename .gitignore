@@ -8,7 +8,8 @@ env/
 # Ignore high-volume raw inputs and dynamically compiled outputs
 data/raw_ted/
 data/tradeatlas_files/
-outputs/
+*.csv
+*.xlsx
 
 # IDE files
 .vscode/

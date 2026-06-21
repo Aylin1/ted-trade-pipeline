@@ -60,6 +60,7 @@ ted-trade-pipeline/
     ├── ted_only_selected_notices.xlsx
     ├── tradeatlas_links_first2words_20firms.csv
     └── winner_counts_only_selected_notices.csv
+```
 
 ## 🖼️ Visual Highlights
 
@@ -67,11 +68,14 @@ _(Replace these placeholder links with actual screenshots of your Plotly graphs!
 
 ### 1. Global Sourcing Flow Map
 
-![Global Flow Map Placeholder](link_to_your_screenshot_1.png)
-_Interactive flow map visualizing the volume of textile trade routes between Germany and manufacturing hubs._
+!(outputs\germany*flows.png)
+\_Interactive flow map visualizing the volume of textile trade routes between Germany and manufacturing hubs.*
 
 ### 2. Exporting Countries by Textile Type
 
-![Textile Type Bar Chart Placeholder](link_to_your_screenshot_2.png)
-_Stacked bar chart demonstrating the reliance on specific regions for critical goods like hospital linens and workwear._
+!(outputs\newplot*1.png)
+\_Stacked bar chart demonstrating the reliance on specific regions for critical goods like hospital linens and workwear.*
+
+```
+
 ```
