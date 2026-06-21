@@ -64,18 +64,26 @@ ted-trade-pipeline/
 
 ## 🖼️ Visual Highlights
 
-_(Replace these placeholder links with actual screenshots of your Plotly graphs!)_
-
 ### 1. Global Sourcing Flow Map
 
-!(outputs\germany*flows.png)
-\_Interactive flow map visualizing the volume of textile trade routes between Germany and manufacturing hubs.*
+![Germany Core Distribution Networks](outputs/germany_flows.png)
+_Interactive flow map visualizing the volume of textile trade routes between Germany and manufacturing hubs._
 
 ### 2. Exporting Countries by Textile Type
 
-!(outputs\newplot*1.png)
-\_Stacked bar chart demonstrating the reliance on specific regions for critical goods like hospital linens and workwear.*
+![Exporting Countries by Textile Type](outputs/newplot_2.png)
+_Stacked bar chart demonstrating the specific manufacturing hubs relied upon for specialized goods like hospital linens, occupational clothing, and weatherproof garments._
 
-```
+---
 
-```
+### 2. Market Sourcing Profiles by Country
+
+![Market Sourcing Profiles by Country](outputs/newplot_1.png)
+_Stacked bar chart detailing the diverse product category breakdowns and manufacturing footprints across major international exporting countries._
+
+---
+
+### 3. Public Procurement Allocations by Public Institutions
+
+![Public Procurement Allocations by Public Institutions](outputs/newplot_3.png)
+_Stacked bar chart tracking the allocation of public tender volumes across vital end-use entities, including hospital infrastructure, municipal cities, and police forces._
