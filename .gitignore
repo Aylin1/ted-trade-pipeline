@@ -1,0 +1,16 @@
+# Python structural files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Ignore high-volume raw inputs and dynamically compiled outputs
+data/raw_ted/
+data/tradeatlas_files/
+outputs/
+
+# IDE files
+.vscode/
+.idea/
+.ipynb_checkpoints/
